@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/EJv2.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>24834</used>
+      <free>7934</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>263394</length>
+      <used>58971</used>
+      <free>204423</free>
+    </memory>
+  </executable>
+</project>
